@@ -13,12 +13,12 @@ dimwishlist:item=727781522&perks=3400784728,1134488199
 dimwishlist:item=727781522&perks=3400784728,4104185692
 
 
+// Prosecutor ()
+dimwishlist:item=880829467&perks=243981275,3218042543
+
+
 // Unsworn ()
 dimwishlist:item=1303313141&perks=3700496672,4198902903
-
-
-// False Promises - Dismantle ()
-dimwishlist:item=-1390080550&perks=
 
 
 // Praedyth's Revenge (Timelost) ()
