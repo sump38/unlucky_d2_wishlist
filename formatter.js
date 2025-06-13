@@ -1,6 +1,9 @@
 formatLine = (dataObject) => {
-    // Extract the item hash and perks array
-    const { hash, plugs } = dataObject;
+    // Extract the item hash, perks array, and name
+    const { hash, plugs, name } = dataObject;
+    
+    // Check if the item should be exported with negative hash (trash items)
+    const finalHash = name === "trash" ? `-${hash}` : hash;
     
     // Generate all combinations of perks
     const combinations = generatePerkCombinations(plugs);
@@ -8,7 +11,7 @@ formatLine = (dataObject) => {
     // Create DIM wishlist lines for each combination
     const lines = combinations.map(perkCombo => {
         const perksString = perkCombo.join(',');
-        return `dimwishlist:item=${hash}&perks=${perksString}`;
+        return `dimwishlist:item=${finalHash}&perks=${perksString}`;
     });
     
     return lines;
