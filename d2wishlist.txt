@@ -1,0 +1,50 @@
+title:unlucky clan wishlish
+description:base list for unlucky clan, not that we'll get it
+
+// Boondoggle Mk. 55 ()
+dimwishlist:item=32287609&perks=4090651448,1968497646,1820235745,4082225868
+
+
+// Adamantite (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=691659142,243981275
+dimwishlist:item=3229982889&perks=3523296417,243981275
+
+
+// Adamantite ()
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+
+// Mirror Imago (pve)
+//notes: tags:pve
+dimwishlist:item=3234363830&perks=3643424744,365154968
+
+
+// Mirror Imago ()
+dimwishlist:item=3234363830&perks=691659142,831391274
+dimwishlist:item=3234363830&perks=691659142,4082225868
+dimwishlist:item=3234363830&perks=691659142,31345821
+
+
+// Mirror Imago ()
+dimwishlist:item=3234363830&perks=1820235745,831391274
+dimwishlist:item=3234363830&perks=1820235745,4082225868
+dimwishlist:item=3234363830&perks=1820235745,31345821
+
+
+// No Survivors ()
+dimwishlist:item=4228149269&perks=3017780555,4293542123
+dimwishlist:item=4228149269&perks=3017780555,3081867624
+dimwishlist:item=4228149269&perks=3017780555,31345821
+dimwishlist:item=4228149269&perks=243981275,4293542123
+dimwishlist:item=4228149269&perks=243981275,3081867624
+dimwishlist:item=4228149269&perks=243981275,31345821
+dimwishlist:item=4228149269&perks=3523296417,4293542123
+dimwishlist:item=4228149269&perks=3523296417,3081867624
+dimwishlist:item=4228149269&perks=3523296417,31345821
+
+
+// No Survivors ()
+dimwishlist:item=4228149269&perks=3418782618,365154968
+
+
