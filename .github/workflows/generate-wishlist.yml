@@ -12,6 +12,9 @@ on:
       - 'wishlist.json'
       - 'formatter.js'
 
+permissions:
+  contents: write
+
 jobs:
   generate-wishlist:
     runs-on: ubuntu-latest
