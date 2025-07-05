@@ -2989,6 +2989,171 @@
             "plugs": [],
             "tags": [],
             "uniqueId": "SGfFt_9ZzGnTcTzJDE8P7"
+        },
+        {
+            "description": "",
+            "hash": 414045521,
+            "name": "",
+            "plugs": [
+                [
+                    243981275,
+                    3523296417
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "Rqzi0MnZc6_2AiTuvpwKV"
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    1134488199
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "GMW4W9_cwNtYWWwLEReQ8"
+        },
+        {
+            "description": "",
+            "hash": 3877448149,
+            "name": "",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "uniqueId": "lbPg-J_fA3Rqxk8Jku08f"
+        },
+        {
+            "description": "",
+            "hash": 3877448149,
+            "name": "",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    831391274,
+                    4082225868,
+                    31345821
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "TqwjFnXcPc3_nHfT31uRa"
+        },
+        {
+            "description": "",
+            "hash": 3877448149,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    31345821
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "uUV4ql71AdTJnbbNM9oX6"
+        },
+        {
+            "description": "Exotic roll: The perfect fifth",
+            "hash": 1681583613,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    519046634
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "WFXOy0rp2QWVnbtVJ2-MD"
+        },
+        {
+            "description": "Exotic roll: Arc conductor",
+            "hash": 1681583613,
+            "name": "",
+            "plugs": [
+                [
+                    1261178282
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2753228730
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "_RZUToLU0SCHlPj7Zp9B-"
+        },
+        {
+            "description": "Exotic perk: wolfpack rounds",
+            "hash": 1681583613,
+            "name": "",
+            "plugs": [
+                [
+                    1261178282
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1726251414,
+                    519046634
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "L8gSMO89_u_Vi4PxGO3vA"
+        },
+        {
+            "description": "",
+            "hash": 694275488,
+            "name": "",
+            "plugs": [
+                [
+                    3987942396
+                ],
+                [
+                    1089671869
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "dbSqxeQOI_xgOkWLzWt4u"
+        },
+        {
+            "description": "",
+            "hash": 694275488,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [],
+            "uniqueId": "XTHk8E_o4GwQVROZnGhPk"
         }
     ],
     "uniqueId": "7BTfUD-RQ-OyNtyaiCzOh"
