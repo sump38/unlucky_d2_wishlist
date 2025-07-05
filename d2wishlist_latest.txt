@@ -479,3 +479,17 @@ dimwishlist:item=694275488&perks=3987942396,1089671869
 
 dimwishlist:item=694275488&perks=3523296417,3194351027
 
+dimwishlist:item=-1890332078&perks=
+
+dimwishlist:item=-447296102&perks=
+
+dimwishlist:item=499245245&perks=3978468247,2396489472
+
+dimwishlist:item=499245245&perks=684456054,2173046394
+
+//notes: tags:pvp
+dimwishlist:item=233635202&perks=2579169598,1015611457
+dimwishlist:item=233635202&perks=2579169598,460017080
+
+dimwishlist:item=3753063346&perks=2579169598,1194056669
+
